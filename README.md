@@ -1,2 +1,9 @@
 # Useful-apps-for-Windows
-In this repository, we'll look at useful Windows applications and utilities that will simplify your work, increase your productivity, and help you keep your computer in top condition.
+В данном репозитории мы подробно рассмотрим ряд полезных приложений для Windows, способных значительно упростить вашу работу и повысить продуктивность. Мы уделим внимание не только функциональным программам, но и утилитам для оптимизации системы, которые помогут поддерживать ваш компьютер в отличном состоянии. Эти инструменты позволят вам максимально эффективно использовать возможности операционной системы Windows и сделают вашу работу более комфортной и безопасной.
+
+
+## Подборка видео (на YouTube):
+- ["Удали эти программы прямо сейчас! Windows 10/11 улучшение"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
+- ["Скачай эти программы прямо сейчас! Windows 10/11 учлучшение"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
+- ["Делаем Windows 10/11 красивее и удобнее"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
+- ["Настраиваем qBitTorrent"](https://www.youtube.com/watch?v=34XfuxGRG4w) (IT Explainer)
