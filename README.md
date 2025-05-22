@@ -7,3 +7,4 @@
 - ["Скачай эти программы прямо сейчас! Windows 10/11 учлучшение"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
 - ["Делаем Windows 10/11 красивее и удобнее"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
 - ["Настраиваем qBitTorrent"](https://www.youtube.com/watch?v=34XfuxGRG4w) (IT Explainer)
+- ["19 бесплатных программ для Windows..."](https://www.youtube.com/watch?v=IgL9GVwIasc) (Werstey)
