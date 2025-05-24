@@ -10,13 +10,13 @@
 - ["19 бесплатных программ для Windows..."](https://www.youtube.com/watch?v=IgL9GVwIasc) (Werstey)
 
 
-## Приложения:
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Браузер-Google-Chrome)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+## Список приложений:
+1. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+2. [Перейти к Заголовку 1](#Браузер-Google-Chrome)
+3. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+4. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+5. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+6. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 
 
 ## Браузер Mozilla FireFox:
