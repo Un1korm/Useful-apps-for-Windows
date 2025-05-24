@@ -11,18 +11,7 @@
 
 
 ## Приложения:
-sas
-sasaa
-as
-asas
-asas
-a
-
-
-as
-a
-a
-
-s
-sa
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
