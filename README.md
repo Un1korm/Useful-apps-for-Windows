@@ -44,6 +44,7 @@
 Скачать приложение:
   - [Официальный сайт Bitwarden](https://bitwarden.com/download/) (Приложение)
   - [Официальный сайт Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox) (Расширение в FireFox)
+  - [Официальный сайт Google](https://chromewebstore.google.com/detail/bitwarden-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5/nngceckbapebfimnlniiiahkandclblb?hl=ru&utm_source=ext_sidebar) (Расширение в Google)
   - [Microsoft Store](https://apps.microsoft.com/detail/9PJSDV0VPK04?hl=ru&gl=RU&ocid=pdpshare)
   - [Apple Store](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)
 
