@@ -23,6 +23,7 @@
 Скачать приложение:
   - [Официальный сайт Mozilla](https://www.mozilla.org/ru/firefox/new/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
+  - [Apple Store](https://apps.apple.com/us/app/firefox-private-web-browser/id989804926)
 
 Настройка:
 - [Мой гитхаб репозиторий](https://github.com/Un1korm/Full-FireFox-browser-setup)
@@ -34,6 +35,7 @@
 Скачать приложение:
   - [Официальный сайт Google](https://www.google.com/chrome/) (Обычная версия приложения)
   - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия приложения)
+  - [Apple Store](https://apps.apple.com/ru/app/chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%BE%D1%82-google/id535886823)
 
 Бесплатный веб-браузер, разработанный компанией Google, известен своей высокой скоростью и простотой использования. Он поддерживает множество расширений и тем, что позволяет пользователям настраивать браузер под свои нужды. Chrome также предлагает функции синхронизации между устройствами, встроенную защиту от вредоносных сайтов и регулярные обновления для повышения безопасности. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
 
@@ -43,5 +45,6 @@
   - [Официальный сайт Bitwarden](https://bitwarden.com/download/) (Приложение)
   - [Официальный сайт Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox) (Расширение в FireFox)
   - [Microsoft Store](https://apps.microsoft.com/detail/9PJSDV0VPK04?hl=ru&gl=RU&ocid=pdpshare)
+  - [Apple Store](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)
 
 Менеджер паролей Bitwarden предлагает пользователям безопасное хранение и управление паролями, а также генерацию надежных паролей для различных учетных записей. Он обеспечивает шифрование данных на стороне клиента, что гарантирует защиту личной информации. Bitwarden поддерживает синхронизацию между устройствами и предоставляет возможность совместного использования паролей с другими пользователями. Приложение доступно на различных платформах, включая Windows, macOS, Linux, Android и iOS.
