@@ -11,17 +11,8 @@
 
 
 ## Приложения:
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-
-
-## Браузер FireFox Mozilla:
 <details>
-<summary>## Браузер FireFox Mozilla</summary>
-  
+<summary>Браузер Mozilla FireFox</summary>
 Содержимое, которое будет скрыто до нажатия на заголовок. Здесь вы можете добавить текст, изображения или другие элементы.
-
 </details>
 
