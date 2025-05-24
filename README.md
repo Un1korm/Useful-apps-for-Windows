@@ -12,7 +12,7 @@
 
 ## Приложения:
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- [Перейти к Заголовку 1](##Браузер Google Chrome)
+- [Перейти к Заголовку 1](##Браузер-Google-Chrome)
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
