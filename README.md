@@ -15,8 +15,7 @@
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 - [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-- 
-- [*] Первый пункт
-- [x] Второй пункт (отмечен)
-- [ ] Третий пункт
+
+
+## Браузер FireFox Mozilla:
 
