@@ -11,17 +11,18 @@
 
 
 ## Приложения:
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
-[Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
+- [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 
 
 ## Браузер Mozilla FireFox:
 Скачать приложение:
-  - [Официальный сайт](https://www.mozilla.org/ru/firefox/new/) (www.mozilla.org)
+  - [Официальный сайт Mozilla](https://www.mozilla.org/ru/firefox/new/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
 
 Это бесплатный веб-браузер с открытым исходным кодом, разработанный компанией Mozilla. Он предлагает пользователям высокую скорость загрузки страниц, поддержку множества расширений и функций для повышения безопасности и конфиденциальности. Firefox включает встроенные инструменты для блокировки трекеров и защиты от вредоносных сайтов. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
 
