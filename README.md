@@ -33,8 +33,8 @@
 
 ## Google Chrome (Браузер):
 Скачать приложение:
-  - [Официальный сайт Google](https://www.google.com/chrome/) (Обычная версия приложения)
-  - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия приложения)
+  - [Официальный сайт Google](https://www.google.com/chrome/) (Обычная версия)
+  - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия)
   - [Apple Store](https://apps.apple.com/ru/app/chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%BE%D1%82-google/id535886823)
 
 Бесплатный веб-браузер, разработанный компанией Google, известен своей высокой скоростью и простотой использования. Он поддерживает множество расширений и тем, что позволяет пользователям настраивать браузер под свои нужды. Chrome также предлагает функции синхронизации между устройствами, встроенную защиту от вредоносных сайтов и регулярные обновления для повышения безопасности. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
@@ -42,7 +42,7 @@
 
 ## Bitwarden (Менеджер паролей):
 Скачать приложение:
-  - [Официальный сайт Bitwarden](https://bitwarden.com/download/) (Приложение)
+  - [Официальный сайт Bitwarden](https://bitwarden.com/download/)
   - [Официальный сайт Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox) (Расширение в FireFox)
   - [Официальный сайт Google](https://chromewebstore.google.com/detail/bitwarden-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5/nngceckbapebfimnlniiiahkandclblb?hl=ru&utm_source=ext_sidebar) (Расширение в Google)
   - [Microsoft Store](https://apps.microsoft.com/detail/9PJSDV0VPK04?hl=ru&gl=RU&ocid=pdpshare)
