@@ -27,7 +27,10 @@
   - [Apple Store](https://apps.apple.com/us/app/firefox-private-web-browser/id989804926)
 
 Настройка:
-- [Мой гитхаб репозиторий](https://github.com/Un1korm/Full-FireFox-browser-setup)
+- ["Full-FireFox-browser-setup"](https://github.com/Un1korm/Full-FireFox-browser-setup) (Un1korm)
+- ["Настраиваем Firefox для полной анонимности..."](https://www.youtube.com/watch?v=XLOvZCdzwp8) (CyberYozh)
+- ["Кастомизация Firefox - сторонние темы..."](https://www.youtube.com/watch?v=pcQzxkQwFk0&t) (Markella's)
+- ["Прокачка браузера FireFox..."](https://www.youtube.com/watch?v=PGF8H-iCudk&t) (ГЛАВНАЯ МРАЗЬ ЮТУБА)
 
 Это бесплатный веб-браузер с открытым исходным кодом, разработанный компанией Mozilla. Он предлагает пользователям высокую скорость загрузки страниц, поддержку множества расширений и функций для повышения безопасности и конфиденциальности. Firefox включает встроенные инструменты для блокировки трекеров и защиты от вредоносных сайтов. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
 
