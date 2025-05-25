@@ -8,6 +8,7 @@
 - ["Делаем Windows 10/11 красивее и удобнее"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
 - ["Настраиваем qBitTorrent"](https://www.youtube.com/watch?v=34XfuxGRG4w) (IT Explainer)
 - ["19 бесплатных программ для Windows..."](https://www.youtube.com/watch?v=IgL9GVwIasc) (Werstey)
+- ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
 
 
 ## Список приложений:
@@ -66,3 +67,12 @@
   - [Apple Store](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
 Популярный мессенджер позволяет пользователям обмениваться текстовыми сообщениями, фотографиями, видео и файлами. Он предлагает функции групповых чатов, каналов и ботов, что делает его удобным для общения и получения информации. Telegram акцентирует внимание на безопасности, предлагая шифрование сообщений и возможность создания секретных чатов. Приложение доступно на различных платформах, включая Windows, macOS, Linux, Android и iOS.
+
+
+## Discord (Геймерская платформа):
+Скачать приложение:
+  - [Официальный сайт Telegram](https://desktop.telegram.org/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/XPDC2RH70K22MN?hl=ru&gl=RU&ocid=pdpshare)
+  - [Apple Store](https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746)
+
+Многофункциональная платформа для общения, ориентированная на геймеров и сообщества, позволяет пользователям создавать текстовые и голосовые каналы. Discord предлагает функции видеозвонков, обмена файлами и интеграцию с играми, что делает его удобным для совместной игры и общения. Пользователи могут настраивать свои серверы, добавлять ботов и управлять правами доступа. Приложение доступно на различных платформах, включая Windows, macOS, Linux, Android и iOS.
