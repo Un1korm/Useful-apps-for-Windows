@@ -27,10 +27,10 @@
   - [Apple Store](https://apps.apple.com/us/app/firefox-private-web-browser/id989804926)
 
 Настройка:
-- ["Full-FireFox-browser-setup"](https://github.com/Un1korm/Full-FireFox-browser-setup) (Un1korm)
-- ["Настраиваем Firefox для полной анонимности..."](https://www.youtube.com/watch?v=XLOvZCdzwp8) (CyberYozh)
-- ["Кастомизация Firefox - сторонние темы..."](https://www.youtube.com/watch?v=pcQzxkQwFk0&t) (Markella's)
-- ["Прокачка браузера FireFox..."](https://www.youtube.com/watch?v=PGF8H-iCudk&t) (ГЛАВНАЯ МРАЗЬ ЮТУБА)
+  - ["Full-FireFox-browser-setup"](https://github.com/Un1korm/Full-FireFox-browser-setup) (Un1korm)
+  - ["Настраиваем Firefox для полной анонимности..."](https://www.youtube.com/watch?v=XLOvZCdzwp8) (CyberYozh)
+  - ["Кастомизация Firefox - сторонние темы..."](https://www.youtube.com/watch?v=pcQzxkQwFk0&t) (Markella's)
+  - ["Прокачка браузера FireFox..."](https://www.youtube.com/watch?v=PGF8H-iCudk&t) (ГЛАВНАЯ МРАЗЬ ЮТУБА)
 
 Это бесплатный веб-браузер с открытым исходным кодом, разработанный компанией Mozilla. Он предлагает пользователям высокую скорость загрузки страниц, поддержку множества расширений и функций для повышения безопасности и конфиденциальности. Firefox включает встроенные инструменты для блокировки трекеров и защиты от вредоносных сайтов. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
 
@@ -41,6 +41,11 @@
   - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия)
   - [Apple Store](https://apps.apple.com/ru/app/chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%BE%D1%82-google/id535886823)
 
+Настройка:
+  - ["Кастомизация интерфейса Chrome..."](https://www.youtube.com/watch?v=nYhK3FhaHHk) (OfficialBRO)
+  - ["Give your Google Chrome a Clean and Professional Look"](https://www.youtube.com/watch?v=0sbS69jSz24) (PosInTech)
+  - ["34 ЛУЧШИХ РАСШИРЕНИЙ ДЛЯ Chrome..."](https://www.youtube.com/watch?v=DMp5GiK6zWk) (Andegrand)
+  
 Бесплатный веб-браузер, разработанный компанией Google, известен своей высокой скоростью и простотой использования. Он поддерживает множество расширений и тем, что позволяет пользователям настраивать браузер под свои нужды. Chrome также предлагает функции синхронизации между устройствами, встроенную защиту от вредоносных сайтов и регулярные обновления для повышения безопасности. Браузер доступен на различных платформах, включая Windows, macOS, Linux, Android и iOS.
 
 
