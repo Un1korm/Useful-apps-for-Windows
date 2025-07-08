@@ -11,7 +11,15 @@
 - ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
 
 
-[ddssjsjds](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#mozilla-firefox-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)
+| приложения  |
+|--------------------------------|--------------------------------|
+| Mozilla-FireFox-(Браузер)      | Bitwarden-(Менеджер паролей)   |
+| Google-Chrome-(Браузер)        | Windscribe-(VPN-сервис)        |
+| Telegram-(Мессенджер)          | Steam-(Магазин игр)            |
+| Discord-(Геймерская платформа) | Epic-Games-(Магазин игр)       |
+| Obsidian-(Программа для заметок)| Everything-(Поисковик файлов)  |
+| Revo-Uninstaller-(Деинсталлятор)| IObit-Driver-Booster-(Обновление драйверов) |
+
 
 ## Mozilla-FireFox-(Браузер):
 ![](logo_img/mozilla-firefox-img.jpg)
