@@ -21,6 +21,8 @@
 
 
 ## Mozilla FireFox (Браузер):
+![](logo_img/mozilla-firefox-img.jpg)
+
 Скачать приложение:
   - [Официальный сайт Mozilla](https://www.mozilla.org/ru/firefox/new/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
@@ -52,6 +54,8 @@
 
 
 ## Bitwarden (Менеджер паролей):
+![](logo_img/bitwarden-img.png)
+
 Скачать приложение:
   - [Официальный сайт Bitwarden](https://bitwarden.com/download/)
   - [Официальный сайт Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox) (Расширение в FireFox)
@@ -63,6 +67,8 @@
 
 
 ## Winscribe (VPN-сервис):
+![](logo_img/windscribe-img.png)
+
 Скачать приложение:
   - [Официальный сайт Winscribe](https://windscribe.com/download/)
   - [Apple Store](https://apps.apple.com/us/app/windscribe-vpn/id1129435228)
@@ -74,6 +80,8 @@
 
 
 ## Telegram (Мессенджер):
+![](logo_img/telegram-img.jpeg)
+
 Скачать приложение:
   - [Официальный сайт Telegram](https://desktop.telegram.org/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9NZTWSQNTD0S?hl=neutral&gl=RU&ocid=pdpshare)
@@ -86,6 +94,8 @@
 
 
 ## Discord (Геймерская платформа):
+![](logo_img/discord-img.webp)
+
 Скачать приложение:
   - [Официальный сайт Discord](https://discord.com/)
   - [Microsoft Store](https://apps.microsoft.com/detail/XPDC2RH70K22MN?hl=ru&gl=RU&ocid=pdpshare)
@@ -99,6 +109,8 @@
 
 
 ## Steam (Магазин игр):
+![](logo_img/steam-img.png)
+
 Скачать приложение:
   - [Официальный сайт Steam](https://store.steampowered.com/about/)
   - [Apple Store](https://apps.apple.com/us/app/steam-mobile/id495369748)
@@ -112,6 +124,8 @@
 
 
 ## Epic Games (Магазин игр):
+![](logo_img/Epic-Games-Store-img.jpg)
+
 Скачать приложение:
   - [Официальный сайт Epic Games](https://store.epicgames.com/ru/download)
   - [Microsoft Store](https://apps.microsoft.com/detail/XP99VR1BPSBQJ2?hl=ru&gl=RU&ocid=pdpshare)
@@ -124,6 +138,8 @@
 
 
 ## Obsidian (Программа для заметок):
+![](logo_img/obsidian-img.png)
+
 Скачать приложение:
   - [Официальный сайт Obsidian](https://obsidian.md/download)
   - [Apple Store](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
@@ -136,6 +152,8 @@
 
 
 ## Everything (Поисковик файлов):
+![](logo_img/everything-img.png)
+
 Скачать приложение:
   - [Официальный сайт Everything](https://www.voidtools.com/ru-ru/downloads/)
 
@@ -143,6 +161,8 @@
 
 
 ## Revo Uninstaller (Деинсталлятор программ):
+![](logo_img/revo-installer-img.png)
+
 Скачать приложение:
   - [Официальный сайт Revo Uninstaller](https://www.revouninstaller.com/ru/revo-uninstaller-free-download/)
 
@@ -150,6 +170,8 @@
 
 
 ## IObit Driver Booster (Обновление драйверов):
+![](logo_img/Driver-Booster-img.jpg)
+
 Скачать приложение:
   - [Официальный сайт IObit Driver Booster](https://ru.iobit.com/driver-booster.php)
   - [Microsoft Store](https://apps.microsoft.com/detail/XPFM0B62TJ71KR?hl=ru&gl=RU&ocid=pdpshare)
