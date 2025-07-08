@@ -94,7 +94,7 @@
 
 
 ## Discord (Геймерская платформа):
-![](logo_img/discord-img.webp)
+![](logo_img/diskord-img.webp)
 
 Скачать приложение:
   - [Официальный сайт Discord](https://discord.com/)
