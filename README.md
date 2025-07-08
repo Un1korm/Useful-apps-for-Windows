@@ -36,6 +36,8 @@
 
 
 ## Google Chrome (Браузер):
+![](logo_img/Google-Chrome-img.webp)
+
 Скачать приложение:
   - [Официальный сайт Google](https://www.google.com/chrome/) (Обычная версия)
   - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия)
