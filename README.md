@@ -13,7 +13,7 @@
 
 ## Список приложений:
 1. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-2. [Перейти к Заголовку 1](##Google-Chrome-(Браузер))
+2. [Перейти к Заголовку 1](#Google-Chrome)
 3. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 4. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
 5. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
