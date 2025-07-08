@@ -11,15 +11,6 @@
 - ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
 
 
-## Список приложений:
-1. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-2. [Перейти к Заголовку 1](#Google-Chrome)
-3. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-4. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-5. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-6. [Перейти к Заголовку 1](#Useful-apps-for-Windows)
-
-
 ## Mozilla-FireFox-(Браузер):
 ![](logo_img/mozilla-firefox-img.jpg)
 
