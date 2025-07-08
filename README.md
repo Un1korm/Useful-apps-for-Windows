@@ -13,7 +13,7 @@
 
 | Браузеры и коммуникация       | Оптимизация ПК                | Работа и игры                 |
 |-------------------------------|-------------------------------|-------------------------------|
-| [Mozilla Firefox (Браузер)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#mozilla-firefox-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)     | [Revo Uninstaller (Деинсталлятор)](#Revo-Uninstaller-Деинсталлятор) | Steam (Магазин игр)        |
+| [Mozilla Firefox (Браузер)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#mozilla-firefox-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)     | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор) | Steam (Магазин игр)        |
 | [Google Chrome (Браузер)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#google-chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)       | IObit Driver Booster (Драйверы) | Epic Games (Магазин игр)    |
 | [Telegram (Мессенджер)]()         | Everything (Поиск файлов)      | Obsidian (Заметки)           |
 | Discord (Геймерская платформа) | [Windscribe (VPN-сервис)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#winscribe-vpn-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81)       |  |
