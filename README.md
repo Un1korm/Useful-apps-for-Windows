@@ -11,14 +11,13 @@
 - ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
 
 
-| приложения                     | приложения                     |
-|--------------------------------|--------------------------------|
-| Mozilla-FireFox-(Браузер)      | Bitwarden-(Менеджер паролей)   |
-| Google-Chrome-(Браузер)        | Windscribe-(VPN-сервис)        |
-| Telegram-(Мессенджер)          | Steam-(Магазин игр)            |
-| Discord-(Геймерская платформа) | Epic-Games-(Магазин игр)       |
-| Obsidian-(Программа для заметок)| Everything-(Поисковик файлов)  |
-| Revo-Uninstaller-(Деинсталлятор)| IObit-Driver-Booster-(Обновление драйверов) |
+| Браузеры и коммуникация       | Оптимизация ПК                | Работа и игры                 |
+|-------------------------------|-------------------------------|-------------------------------|
+| Mozilla Firefox (Браузер)     | Revo Uninstaller (Деинсталлятор) | Steam (Магазин игр)        |
+| Google Chrome (Браузер)       | IObit Driver Booster (Драйверы) | Epic Games (Магазин игр)    |
+| Telegram (Мессенджер)         | Everything (Поиск файлов)      | Obsidian (Заметки)           |
+| Discord (Геймерская платформа) | Windscribe (VPN-сервис)       | Bitwarden (Менеджер паролей) |
+| -- | Bitwarden (Менеджер паролей)       | -- |
 
 
 ## Mozilla-FireFox-(Браузер):
