@@ -13,11 +13,11 @@
 
 | Браузеры и коммуникация       | Оптимизация ПК                | Работа и игры                 |
 |-------------------------------|-------------------------------|-------------------------------|
-| [Mozilla Firefox (Браузер)]()     | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | Steam (Магазин игр)        |
-| [Google Chrome (Браузер)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#google-chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)       | IObit Driver Booster (Драйверы) | Epic Games (Магазин игр)    |
-| [Telegram (Мессенджер)]()         | Everything (Поиск файлов)      | Obsidian (Заметки)           |
-| Discord (Геймерская платформа) | [Windscribe (VPN-сервис)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#winscribe-vpn-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81)       |  |
-|  | [Bitwarden (Менеджер паролей)](https://github.com/Un1korm/Useful-apps-for-Windows/blob/main/README.md#bitwarden-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9)       |  |
+| [Mozilla Firefox (Браузер)](#mozilla-firefox-браузер) | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | [Steam (Магазин игр)](#steam-магазин-игр) |
+| [Google Chrome (Браузер)](#google-chrome-браузер) | [IObit Driver Booster (Драйверы)](#) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) |
+| [Telegram (Мессенджер)](#telegram-мессенджер) | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
+| [Discord (Геймерская платформа)](#discord-геймерская-платформа) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |  |
+|  | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) |  |
 
 
 ## Mozilla-FireFox-(Браузер):
