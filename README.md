@@ -11,7 +11,7 @@
 - ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
 
 
-| приложения  |
+| приложения                     | приложения                     |
 |--------------------------------|--------------------------------|
 | Mozilla-FireFox-(Браузер)      | Bitwarden-(Менеджер паролей)   |
 | Google-Chrome-(Браузер)        | Windscribe-(VPN-сервис)        |
