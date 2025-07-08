@@ -16,7 +16,7 @@
 | Mozilla Firefox (Браузер)     | Revo Uninstaller (Деинсталлятор) | Steam (Магазин игр)        |
 | Google Chrome (Браузер)       | IObit Driver Booster (Драйверы) | Epic Games (Магазин игр)    |
 | Telegram (Мессенджер)         | Everything (Поиск файлов)      | Obsidian (Заметки)           |
-| Discord (Геймерская платформа) | Windscribe (VPN-сервис)       | Bitwarden (Менеджер паролей) |
+| Discord (Геймерская платформа) | Windscribe (VPN-сервис)       |  |
 | -- | Bitwarden (Менеджер паролей)       | -- |
 
 
