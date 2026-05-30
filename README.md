@@ -181,7 +181,7 @@
 
 
 ## ShareX (Скриншоты и запись экрана):
-![](logo_img/sharex-img.webp)
+![](logo_img/shareX-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт ShareX](https://getsharex.com/)
