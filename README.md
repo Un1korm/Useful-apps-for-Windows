@@ -214,11 +214,10 @@
 
 
 ## BleachBit (Очистка системы):
-![](logo_img/bleachbit-img.webp)
+![](logo_img/bleachbit-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт BleachBit](https://www.bleachbit.org/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH5X1TQ)
 
 Бесплатная программа с открытым исходным кодом для очистки дискового пространства и защиты конфиденциальности. BleachBit удаляет временные файлы, кэш браузеров, cookies, логи и другие ненужные данные. Также включает функцию затирания свободного места для безвозвратного удаления файлов. Поддерживает Windows и Linux.
 
