@@ -227,8 +227,6 @@
 
 **Скачать приложение:**
   - [Официальный сайт LocalSend](https://localsend.org/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4Z1TQ)
   - [Apple Store](https://apps.apple.com/app/localsend/id1661733229)
-  - [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend)
 
 Бесплатное приложение с открытым исходным кодом для мгновенной передачи файлов между устройствами в локальной сети. LocalSend не требует интернета, регистрации или облачных сервисов — всё работает по технологии peer-to-peer. Поддерживает отправку фото, видео, документов и целых папок. Доступен на Windows, macOS, Linux, Android и iOS.
