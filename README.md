@@ -192,7 +192,7 @@
 
 
 ## VLC Media Player (Медиапроигрыватель):
-![](logo_img/vlc-media-player-img.png)
+![](logo_img/VLC-media-player-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт VLC](https://www.videolan.org/vlc/)
