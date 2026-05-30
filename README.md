@@ -192,7 +192,7 @@
 
 
 ## VLC Media Player (Медиапроигрыватель):
-![](logo_img/vlc-img.webp)
+![](logo_img/vlc-media-player-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт VLC](https://www.videolan.org/vlc/)
@@ -203,7 +203,7 @@
 
 
 ## OBS Studio (Запись и стриминг):
-![](logo_img/obs-img.webp)
+![](logo_img/obs-studio-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт OBS Studio](https://obsproject.com/ru)
