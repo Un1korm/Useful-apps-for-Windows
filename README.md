@@ -15,7 +15,7 @@
 | Коммуникация       | Оптимизация ПК                | Работа и игры                 |
 |-------------------------------|-------------------------------|-------------------------------|
 | [Mozilla Firefox (Браузер)](#mozilla-firefox-браузер) | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | [Steam (Магазин игр)](#steam-магазин-игр) |
-| [Google Chrome (Браузер)](#google-chrome-браузер) | [Iobit Driver Booster (Драйверы)](#iobit-driver-booster-обновление-драйверов) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) |
+| [Google Chrome (Браузер)](#google-chrome-браузер) | [Iobit Driver Booster (Обнова драйверов)](#iobit-driver-booster-обновление-драйверов) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) |
 | [Telegram (Мессенджер)](#telegram-мессенджер) | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
 | [Discord (Геймерская платформа)](#discord-геймерская-платформа) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |  |
 |  | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) |  |
