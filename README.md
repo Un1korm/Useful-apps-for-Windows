@@ -185,8 +185,9 @@
 
 **Скачать приложение:**
   - [Официальный сайт ShareX](https://getsharex.com/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4T1XQ)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9nblggh4z1sp?hl=ru-RU&gl=RU)
   - [GitHub Releases](https://github.com/ShareX/ShareX/releases)
+  - [Steam](https://store.steampowered.com/app/400040/ShareX/)
 
 Мощная программа с открытым исходным кодом для создания скриншотов, записи экрана и загрузки файлов. ShareX поддерживает множество сервисов для быстрой публикации изображений, текста и видео. Пользователи могут автоматизировать рабочие процессы, настраивать горячие клавиши и использовать редактор изображений. Доступна только для Windows.
 
@@ -196,7 +197,7 @@
 
 **Скачать приложение:**
   - [Официальный сайт VLC](https://www.videolan.org/vlc/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4V1XQ)
+  - [Microsoft Store](https://apps.microsoft.com/detail/xpdm1zw6815mqm?hl=ru-RU&gl=AR)
   - [Apple Store](https://apps.apple.com/app/vlc-media-player/id650377962)
 
 Универсальный бесплатный медиапроигрыватель с открытым исходным кодом, поддерживающий практически все форматы аудио и видео без необходимости установки дополнительных кодеков. VLC умеет воспроизводить повреждённые или недогруженные файлы, стримить контент по сети, применять фильтры и менять скины. Доступен на Windows, macOS, Linux, Android и iOS.
@@ -207,8 +208,7 @@
 
 **Скачать приложение:**
   - [Официальный сайт OBS Studio](https://obsproject.com/ru)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NZDQH8F9T1Q)
-  - [Apple Store](https://apps.apple.com/app/obs-studio/id1295207906)
+  - [Microsoft Store](https://apps.microsoft.com/detail/xpffh613w8v6lv?hl=ru-RU&gl=RU)
 
 Профессиональное программное обеспечение с открытым исходным кодом для захвата видео, записи экрана и потокового вещания в реальном времени. OBS Studio позволяет создавать сцены с множеством источников (окна, игры, веб-камеры), настраивать переходы, применять фильтры и использовать горячие клавиши. Поддерживает все популярные платформы для стриминга. Доступен на Windows, macOS и Linux.
 
