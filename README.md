@@ -178,3 +178,58 @@
   - [Microsoft Store](https://apps.microsoft.com/detail/XPFM0B62TJ71KR?hl=ru&gl=RU&ocid=pdpshare)
 
 Программа для автоматического обновления драйверов на компьютере, обеспечивающая стабильную работу оборудования и улучшение производительности системы. IObit Driver Booster сканирует систему на наличие устаревших драйверов и предлагает их обновление одним кликом. Она также включает функции резервного копирования и восстановления драйверов. Приложение доступно на платформах Windows.
+
+
+## ShareX (Скриншоты и запись экрана):
+![](logo_img/sharex-img.webp)
+
+**Скачать приложение:**
+  - [Официальный сайт ShareX](https://getsharex.com/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4T1XQ)
+  - [GitHub Releases](https://github.com/ShareX/ShareX/releases)
+
+Мощная программа с открытым исходным кодом для создания скриншотов, записи экрана и загрузки файлов. ShareX поддерживает множество сервисов для быстрой публикации изображений, текста и видео. Пользователи могут автоматизировать рабочие процессы, настраивать горячие клавиши и использовать редактор изображений. Доступна только для Windows.
+
+
+## VLC Media Player (Медиапроигрыватель):
+![](logo_img/vlc-img.webp)
+
+**Скачать приложение:**
+  - [Официальный сайт VLC](https://www.videolan.org/vlc/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4V1XQ)
+  - [Apple Store](https://apps.apple.com/app/vlc-media-player/id650377962)
+
+Универсальный бесплатный медиапроигрыватель с открытым исходным кодом, поддерживающий практически все форматы аудио и видео без необходимости установки дополнительных кодеков. VLC умеет воспроизводить повреждённые или недогруженные файлы, стримить контент по сети, применять фильтры и менять скины. Доступен на Windows, macOS, Linux, Android и iOS.
+
+
+## OBS Studio (Запись и стриминг):
+![](logo_img/obs-img.webp)
+
+**Скачать приложение:**
+  - [Официальный сайт OBS Studio](https://obsproject.com/ru)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NZDQH8F9T1Q)
+  - [Apple Store](https://apps.apple.com/app/obs-studio/id1295207906)
+
+Профессиональное программное обеспечение с открытым исходным кодом для захвата видео, записи экрана и потокового вещания в реальном времени. OBS Studio позволяет создавать сцены с множеством источников (окна, игры, веб-камеры), настраивать переходы, применять фильтры и использовать горячие клавиши. Поддерживает все популярные платформы для стриминга. Доступен на Windows, macOS и Linux.
+
+
+## BleachBit (Очистка системы):
+![](logo_img/bleachbit-img.webp)
+
+**Скачать приложение:**
+  - [Официальный сайт BleachBit](https://www.bleachbit.org/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH5X1TQ)
+
+Бесплатная программа с открытым исходным кодом для очистки дискового пространства и защиты конфиденциальности. BleachBit удаляет временные файлы, кэш браузеров, cookies, логи и другие ненужные данные. Также включает функцию затирания свободного места для безвозвратного удаления файлов. Поддерживает Windows и Linux.
+
+
+## LocalSend (Обмен файлами по сети):
+![](logo_img/localsend-img.webp)
+
+**Скачать приложение:**
+  - [Официальный сайт LocalSend](https://localsend.org/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4Z1TQ)
+  - [Apple Store](https://apps.apple.com/app/localsend/id1661733229)
+  - [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend)
+
+Бесплатное приложение с открытым исходным кодом для мгновенной передачи файлов между устройствами в локальной сети. LocalSend не требует интернета, регистрации или облачных сервисов — всё работает по технологии peer-to-peer. Поддерживает отправку фото, видео, документов и целых папок. Доступен на Windows, macOS, Linux, Android и iOS.
