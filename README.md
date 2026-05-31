@@ -279,7 +279,7 @@
 
 
 ## 7-Zip (Архиватор):
-![](logo_img/7zip-img.webp)
+![](logo_img/7zip-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт](https://www.7-zip.org/)
@@ -288,7 +288,7 @@
 
 
 ## WinDynamicDesktop (Динамические обои):
-![](logo_img/windynamicdesctop-img.webp)
+![](logo_img/windynamicdesktop-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт](https://windd.info/)
@@ -302,7 +302,7 @@
 
 
 ## AllDup (Поиск дубликатов):
-![](logo_img/alldup-img.webp)
+![](logo_img/alldup-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://alldup.info/en/alldup/download.php)
@@ -311,7 +311,7 @@
 
 
 ## WinToys (Оптимизация Windows):
-![](logo_img/wintoys-img.webp)
+![](logo_img/wintoys-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://bogdan-patraucean.github.io/about/wintoys/)
@@ -324,7 +324,7 @@
 
 
 ## Win10Tweaker (Оптимизация Windows):
-![](logo_img/win10tweaker-img.webp)
+![](logo_img/win10tweaker-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://win10tweaker.ru/)
@@ -333,7 +333,7 @@
 
 
 ## iCloud (Облачное хранилище Apple):
-![](logo_img/icloud-img.webp)
+![](logo_img/icloud-img.png)
 
 **Скачать приложение:**
   - [Microsoft Store](https://apps.microsoft.com/detail/9pktq5699m62?hl=ru-RU&gl=RU)
@@ -342,7 +342,7 @@
 
 
 ## MinerSearch (Поиск и удаление майнеров):
-![](logo_img/minersearch-img.webp)
+![](logo_img/minersearch-img.png)
 
 **Скачать приложение:**
   - [GitHub](https://github.com/BlendLog/MinerSearch)
