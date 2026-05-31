@@ -17,7 +17,7 @@
 | [Mozilla Firefox (Браузер)](#mozilla-firefox-браузер) | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | [Steam (Магазин игр)](#steam-магазин-игр) |
 | [Google Chrome (Браузер)](#google-chrome-браузер) | [IObit Driver Booster (Обновление драйверов)](#iobit-driver-booster-обновление-драйверов) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) |
 | [Telegram (Мессенджер)](#telegram-мессенджер) | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
-| [Discord (Геймерская платформа)](#discord-геймерская-платформа) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) | [VLC Media Player](#vlc-media-player-медиапроигрыватель) |
+| [Discord (Геймерский мессенджер)](#discord-геймерская-платформа) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) | [VLC Media Player](#vlc-media-player-медиапроигрыватель) |
 | | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [OBS Studio (Запись экрана)](#obs-studio-запись-и-стриминг) |
 | **Сжатие и архивация** | **Очистка и анализ диска** | **Работа с файлами** |
 | [ShareX (Скриншоты)](#sharex-скриншоты-и-запись-экрана) | [BleachBit (Очистка системы)](#bleachbit-очистка-системы) | [LocalSend (Обмен файлами)](#localsend-обмен-файлами-по-сети) |
