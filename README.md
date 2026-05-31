@@ -17,6 +17,7 @@
 - [Очистка диска C. Полный пошаговый гайд](https://www.youtube.com/watch?v=wNscRBjRBWc) (MartyFiles)
 - [Полный Гайд по Windows 11. Вся Правда об Оптимизации](https://www.youtube.com/watch?v=ITdecD6R0Yw) (Max.mov)
 - [Чистейшая и легкая Windows 11 с оф. сайта Microsoft](https://www.youtube.com/watch?v=qUCKmSXbntA) (Werstey)
+- [Что делать после сборки ПК? Как установить Windows, установка драйверов, настройка Windows](https://www.youtube.com/watch?v=5J8a5cdpBeg) (Serodji)
 
 ## Кастомизация ПК:
 - [Сделал красивую и удобную Windows 10. Простая настройка и кастомизация](https://youtu.be/ZfN8Vh6eouc?si=1IZX7INFwO_oR7J1) (MartyFiles)
