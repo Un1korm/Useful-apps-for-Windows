@@ -252,7 +252,7 @@
 
 
 ## WizTree (Анализ дискового пространства):
-![](logo_img/wiztree-img.jpg)
+![](logo_img/wiztree-img.webp)
 
 **Скачать приложение:**
   - [Официальный сайт](https://wiztreefree.com/)
