@@ -39,7 +39,7 @@
 
 
 ## Google Chrome (Браузер):
-![](logo_img/Google-Chrome-img.webp)
+![](logo_img/google-chrome-img.webp)
 
 Скачать приложение:
   - [Официальный сайт](https://www.google.com/chrome/) (Обычная версия)
@@ -125,7 +125,7 @@
 
 
 ## Epic Games (Магазин игр):
-![](logo_img/Epic-Games-Store-img.jpg)
+![](logo_img/epic-games-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://store.epicgames.com/ru/download)
@@ -171,7 +171,7 @@
 
 
 ## Driver Booster (Обновление драйверов):
-![](logo_img/Driver-Booster-img.jpg)
+![](logo_img/driver-booster-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://ru.iobit.com/driver-booster.php)
@@ -193,7 +193,7 @@
 
 
 ## VLC Media Player (Медиапроигрыватель):
-![](logo_img/VLC-media-player-img.png)
+![](logo_img/vlc-media-player-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт](https://www.videolan.org/vlc/)
@@ -233,7 +233,7 @@
 
 
 ## Caesium Image Compressor (Сжатие изображений):
-![](logo_img/Caesium-Image-Compressor-img.png)
+![](logo_img/caesium-image-compressor-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт](https://saerasoft.com/caesium)
