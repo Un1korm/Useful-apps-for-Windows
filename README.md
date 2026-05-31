@@ -31,13 +31,13 @@
 | [Mozilla Firefox (Браузер)](#mozilla-firefox-браузер) | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | [VLC Media Player (Медиапроигрыватель)](#vlc-media-player-медиапроигрыватель) |
 | [Google Chrome (Браузер)](#google-chrome-браузер) | [Driver Booster (Обновление драйверов)](#driver-booster-обновление-драйверов) | [OBS Studio (Запись экрана)](#obs-studio-запись-экрана) |
 | [Telegram (Мессенджер)](#telegram-мессенджер) | [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) | [ShareX (Скриншоты)](#sharex-скриншоты-и-запись-экрана) |
-| [Discord (Геймерский мессенджер)](#discord-геймерская-платформа) | [BleachBit (Очистка системы)](#bleachbit-очистка-системы) | [Caesium (Сжатие фото)](#caesium-image-compressor-сжатие-изображений) |
+| [Discord (Мессенджер)](#discord-геймерская-платформа) | [BleachBit (Очистка системы)](#bleachbit-очистка-системы) | [Caesium (Сжатие фото)](#caesium-image-compressor-сжатие-изображений) |
 | | [WizTree (Анализ диска)](#wiztree-анализ-дискового-пространства) | [CompressO (Сжатие видео)](#compresso-сжатие-видео) |
 | | [AllDup (Поиск дубликатов)](#alldup-поиск-дубликатов) | [7-Zip (Архиватор)](#7-zip-архиватор) |
 | | [WinToys (Оптимизатор)](#wintoys-оптимизация-windows) | [LocalSend (Обмен файлами)](#localsend-обмен-файлами-по-сети) |
 | | [Win10Tweaker (Оптимизатор)](#win10tweaker-оптимизация-windows) | [qBittorrent (Торрент)](#qbittorrent-торрент-клиент) |
 | | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Jopdf (PDF редактор)](#jopdf-pdf-редактор) |
-| | [WinClick (Настройка Windows 11)](#winclick-оптимизация-windows) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
+| | [WinClick (Оптимизатор)](#winclick-оптимизация-windows) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
 | **Развлечения** | **Конфиденциальность** | **Обход блокировок** |
 | [Steam (Магазин игр)](#steam-магазин-игр) | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |
 | [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок-dsyt) |
