@@ -25,27 +25,27 @@
 - [Я сделал новый Windows! Кастомизация Windows 11](https://www.youtube.com/watch?v=3vpprI4dSqo) (PavelNew)
 
 
-## Таблица быстрого доступа приложений (36 штук):
+## Таблица быстрого доступа приложений (37 штук):
 | Коммуникации и браузеры | Оптимизация Windows | Мультимедиа и файлы |
 |------------------------|---------------------|---------------------|
-| [Mozilla Firefox (Браузер)](#mozilla-firefox-браузер) | [Revo Uninstaller (Деинсталлятор)](#revo-uninstaller-деинсталлятор-программ) | [VLC Media Player (Медиапроигрыватель)](#vlc-media-player-медиапроигрыватель) |
-| [Google Chrome (Браузер)](#google-chrome-браузер) | [Driver Booster (Обновление драйверов)](#driver-booster-обновление-драйверов) | [OBS Studio (Запись экрана)](#obs-studio-запись-экрана) |
-| [Telegram (Мессенджер)](#telegram-мессенджер) | [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) | [ShareX (Скриншоты)](#sharex-скриншоты-и-запись-экрана) |
-| [Discord (Геймерский мессенджер)](#discord-геймерская-платформа) | [BleachBit (Очистка системы)](#bleachbit-очистка-системы) | [Caesium (Сжатие фото)](#caesium-image-compressor-сжатие-изображений) |
-| | [WizTree (Анализ диска)](#wiztree-анализ-дискового-пространства) | [CompressO (Сжатие видео)](#compresso-сжатие-видео) |
-| | [AllDup (Поиск дубликатов)](#alldup-поиск-дубликатов) | [7-Zip (Архиватор)](#7-zip-архиватор) |
-| | [WinToys (Оптимизатор)](#wintoys-оптимизация-windows) | [LocalSend (Обмен файлами)](#localsend-обмен-файлами-по-сети) |
-| | [Win10Tweaker (Оптимизатор)](#win10tweaker-оптимизация-windows) | [qBittorrent (Торрент)](#qbittorrent-торрент-клиент) |
-| | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Jopdf (PDF редактор)](#jopdf-pdf-редактор) |
-| | | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
+| [Mozilla Firefox](#mozilla-firefox-браузер) | [Revo Uninstaller](#revo-uninstaller-деинсталлятор-программ) | [VLC Media Player](#vlc-media-player-медиапроигрыватель) |
+| [Google Chrome](#google-chrome-браузер) | [Driver Booster](#driver-booster-обновление-драйверов) | [OBS Studio](#obs-studio-запись-экрана) |
+| [Telegram](#telegram-мессенджер) | [MinerSearch](#minersearch-поиск-и-удаление-майнеров) | [ShareX](#sharex-скриншоты-и-запись-экрана) |
+| [Discord](#discord-геймерская-платформа) | [BleachBit](#bleachbit-очистка-системы) | [Caesium](#caesium-image-compressor-сжатие-изображений) |
+| | [WizTree](#wiztree-анализ-дискового-пространства) | [CompressO](#compresso-сжатие-видео) |
+| | [AllDup](#alldup-поиск-дубликатов) | [7-Zip](#7-zip-архиватор) |
+| | [WinToys](#wintoys-оптимизация-windows) | [LocalSend](#localsend-обмен-файлами-по-сети) |
+| | [Win10Tweaker](#win10tweaker-оптимизация-windows) | [qBittorrent](#qbittorrent-торрент-клиент) |
+| | [Everything](#everything-поисковик-файлов) | [Jopdf](#jopdf-pdf-редактор) |
+| | [WinClick](#winclick-оптимизация-windows) | [Obsidian](#obsidian-программа-для-заметок) |
 | **Развлечения** | **Конфиденциальность** | **Обход блокировок** |
-| [Steam (Магазин игр)](#steam-магазин-игр) | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |
-| [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок-dsyt) |
-| | | [TG WS Proxy (Обход TG)](#tg-ws-proxy-обход-блокировки-tg) |
+| [Steam](#steam-магазин-игр) | [Bitwarden](#bitwarden-менеджер-паролей) | [Windscribe](#winscribe-vpn-сервис) |
+| [Epic Games](#epic-games-магазин-игр) | [iCloud](#icloud-облачное-хранилище) | [Zapret](#zapret-discord-youtube-обход-блокировок-dsyt) |
+| | | [TG WS Proxy](#tg-ws-proxy-обход-блокировки-tg) |
 | **Кастомизация** | **Программирование** | **Резервное копирование** |
-| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Редактор кода Python)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios) |
-| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Резервная копия ПК)](#aomei-backupper-резервная-копия-пк) |
-| | | [Устройства Apple (Сброс и обновление)](#устройства-apple-обновление-и-восстановление-ios-устройств) |
+| [WinDynamicDesktop](#windynamicdesktop-динамические-обои) | [PyCharm](#pycharm-редактор-кода-python) | [iMazing](#imazing-резервная-копия-ios) |
+| | [Visual Studio Code](#visual-studio-code-редактор-кода) | [AOMEI Backupper](#aomei-backupper-резервная-копия-пк) |
+| | | [Устройства Apple](#устройства-apple-сброс-и-обновление) |
 
 
 ## Mozilla FireFox (Браузер):
