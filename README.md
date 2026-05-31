@@ -26,10 +26,11 @@
 | | | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
 | **Развлечения** | **Конфиденциальность** | **Обход блокировок** |
 | [Steam (Магазин игр)](#steam-магазин-игр) | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |
-| [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок) |
+| [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок-dsyt) |
+| | | [TG WS Proxy (Обход TG)](#tg-ws-proxy-обход-блокировки-tg) |
 | **Кастомизация** | **Программирование** | **Резервное копирование** |
-| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Редактор кода Python)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios-устройств) |
-| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Резервная копия ПК)](#aomei-backupper-резервная-копия-системы-пк) |
+| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Редактор кода Python)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios) |
+| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Резервная копия ПК)](#aomei-backupper-резервная-копия-пк) |
 | | | [Устройства Apple (Синхронизация)](#устройства-apple-обновление-и-восстановление-ios-устройств) |
 
 
