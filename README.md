@@ -18,15 +18,15 @@
 | [Google Chrome (Браузер)](#google-chrome-браузер) | [IObit Driver Booster (Обновление драйверов)](#iobit-driver-booster-обновление-драйверов) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) |
 | [Telegram (Мессенджер)](#telegram-мессенджер) | [Everything (Поиск файлов)](#everything-поисковик-файлов) | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
 | [Discord (Геймерская платформа)](#discord-геймерская-платформа) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) | [VLC Media Player](#vlc-media-player-медиапроигрыватель) |
-| | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [OBS Studio (Стриминг)](#obs-studio-запись-и-стриминг) |
+| | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [OBS Studio (Запись экрана)](#obs-studio-запись-и-стриминг) |
 | **Сжатие и архивация** | **Очистка и анализ диска** | **Работа с файлами** |
 | [ShareX (Скриншоты)](#sharex-скриншоты-и-запись-экрана) | [BleachBit (Очистка системы)](#bleachbit-очистка-системы) | [LocalSend (Обмен файлами)](#localsend-обмен-файлами-по-сети) |
 | [Caesium (Сжатие фото)](#caesium-image-compressor-сжатие-изображений) | [WizTree (Анализ диска)](#wiztree-анализ-дискового-пространства) | [qBittorrent (Торрент)](#qbittorrent-торрент-клиент) |
 | [CompressO (Сжатие видео)](#compresso-сжатие-видео-без-потери-качества) | [AllDup (Поиск дубликатов)](#alldup-поиск-дубликатов) | [Jopdf (PDF редактор)](#jopdf-pdf-редактор) |
 | [7-Zip (Архиватор)](#7-zip-архиватор) | | |
 | **Кастомизация и безопасность** | **Оптимизация Windows** | **Облачные сервисы** |
-| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [WinToys (Настройка Windows)](#wintoys-оптимизация-windows) | [iCloud (Apple облако)](#icloud-облачное-хранилище-apple) |
-| [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) | [Win10Tweaker (Твикер)](#win10tweaker-оптимизация-windows) | |
+| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [WinToys (Оптимизатор)](#wintoys-оптимизация-windows) | [iCloud (Apple облако)](#icloud-облачное-хранилище-apple) |
+| [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) | [Win10Tweaker (Оптимизатор)](#win10tweaker-оптимизация-windows) | |
 
 
 ## Mozilla FireFox (Браузер):
