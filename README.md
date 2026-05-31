@@ -2,12 +2,24 @@
 В данном репозитории мы подробно рассмотрим ряд полезных бесплатных приложений для Windows, способных значительно упростить вашу работу и повысить продуктивность. Мы уделим внимание не только функциональным программам, но и утилитам для оптимизации системы, которые помогут поддерживать ваш компьютер в отличном состоянии. Эти инструменты позволят вам максимально эффективно использовать возможности операционной системы Windows и сделают вашу работу более комфортной и безопасной.
 
 
-## Подборка видео (на YouTube):
+## Подборка видео про полезные приложения:
 - ["Удали эти программы прямо сейчас! Windows 10/11 улучшение"](https://www.youtube.com/watch?v=6KE4lt2KCa8) (FISPEKT)
 - ["Скачай эти программы прямо сейчас! Windows 10/11 учлучшение"](https://www.youtube.com/watch?v=yaUhNYsRyi0) (FISPEKT)
 - ["Делаем Windows 10/11 красивее и удобнее"](https://www.youtube.com/watch?v=kYYqyjjNtfc) (FISPEKT)
 - ["19 бесплатных программ для Windows..."](https://www.youtube.com/watch?v=IgL9GVwIasc) (Werstey)
 - ["Красивые программы для Windows 11..."](https://www.youtube.com/watch?v=u-EW9tLMfZg) (MartyFiles)
+
+Оптимизация и очистка ПК:
+- [Оптимизация Windows 11. Лучшие настройки на 2026 год!](https://youtu.be/mTNuCov7-Zk?si=mQcTHk2rwPlEWDK9) (OfficialBRO)
+- [КАК ОЧИСТИТЬ ВЕСЬ КЭШ В WINDOWS 10/ПОВЫШАЕМ ПРОИЗВОДИТЕЛЬНОСТЬ ПК...](https://youtu.be/8sqEROMBMoY?si=qNfrhKB-4yZPIs0r) (Welson)
+- [Чистая Windows без мусора: Как я настраиваю ОС, которая служит годами](https://youtu.be/YkkoSUIKrPU?si=ytbnISOcIR1FCTOM) (WebDesign Master)
+- [Оптимизация Windows. Пошаговый гайд](https://www.youtube.com/watch?v=UemdsjxTdfg) (MartyFiles)
+- [Очистка диска C. Полный пошаговый гайд](https://www.youtube.com/watch?v=wNscRBjRBWc) (MartyFiles)
+
+Кастомизация ПК:
+- [Сделал красивую и удобную Windows 10. Простая настройка и кастомизация](https://youtu.be/ZfN8Vh6eouc?si=1IZX7INFwO_oR7J1) (MartyFiles)
+- [Всё, что нужно знать об оформлении Windows!](https://www.youtube.com/watch?v=zJGyWwmf9vc) (OfficialBRO)
+- [Я сделал новый Windows! Кастомизация Windows 11](https://www.youtube.com/watch?v=3vpprI4dSqo) (PavelNew)
 
 
 ## Таблица быстрого доступа приложений (36 штук):
