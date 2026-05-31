@@ -15,6 +15,8 @@
 - [Чистая Windows без мусора: Как я настраиваю ОС, которая служит годами](https://youtu.be/YkkoSUIKrPU?si=ytbnISOcIR1FCTOM) (WebDesign Master)
 - [Оптимизация Windows. Пошаговый гайд](https://www.youtube.com/watch?v=UemdsjxTdfg) (MartyFiles)
 - [Очистка диска C. Полный пошаговый гайд](https://www.youtube.com/watch?v=wNscRBjRBWc) (MartyFiles)
+- [Полный Гайд по Windows 11. Вся Правда об Оптимизации](https://www.youtube.com/watch?v=ITdecD6R0Yw) (Max.mov)
+- [Чистейшая и легкая Windows 11 с оф. сайта Microsoft](https://www.youtube.com/watch?v=qUCKmSXbntA) (Werstey)
 
 ## Кастомизация ПК:
 - [Сделал красивую и удобную Windows 10. Простая настройка и кастомизация](https://youtu.be/ZfN8Vh6eouc?si=1IZX7INFwO_oR7J1) (MartyFiles)
@@ -412,6 +414,9 @@
 Скачать приложение:
   - [Официальный сайт](https://www.aomeitech.com/download.html)
   - [Microsoft Store](https://apps.microsoft.com/detail/xp9mftnfw3dk13?hl=ru-RU&gl=RU)
+
+Настройка:
+  - [Резервное копирование Windows. Создание и восстановление бэкапа](https://youtu.be/rHg_kV5xJnk?si=QgzAFC4YnOCWl9zT) (MartyFiles)
 
 Надежное и простое в использовании программное решение для резервного копирования и восстановления данных. Позволяет создавать резервные копии системы, отдельных дисков, разделов и файлов. В бесплатной версии Standard доступны основные функции, такие как клонирование дисков, синхронизация файлов и создание загрузочного носителя для восстановления системы. Приложение доступно только на платформе Windows.
 
