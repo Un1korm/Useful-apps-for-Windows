@@ -233,7 +233,7 @@
 
 
 ## Caesium Image Compressor (Сжатие изображений):
-![](logo_img/caesium-img.webp)
+![](logo_img/Caesium-Image-Compressor-img.png)
 
 **Скачать приложение:**
   - [Официальный сайт](https://saerasoft.com/caesium)
@@ -243,7 +243,7 @@
 
 
 ## CompressO (Сжатие видео без потери качества):
-![](logo_img/compressO-img.webp)
+![](logo_img/compresso-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://compresso.codeforreal.com/)
@@ -252,7 +252,7 @@
 
 
 ## WizTree (Анализ дискового пространства):
-![](logo_img/wiztree-img.webp)
+![](logo_img/wiztree-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://wiztreefree.com/)
