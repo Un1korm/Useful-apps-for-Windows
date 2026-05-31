@@ -125,7 +125,7 @@
 
 
 ## Epic Games (Магазин игр):
-![](logo_img/epic-games-img.jpg)
+![](logo_img/epic-games-img.png)
 
 Скачать приложение:
   - [Официальный сайт](https://store.epicgames.com/ru/download)
