@@ -28,8 +28,8 @@
 | [Steam (Магазин игр)](#steam-магазин-игр) | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |
 | [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок) |
 | **Кастомизация** | **Программирование** | **Резервное копирование** |
-| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Python IDE)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios-устройств) |
-| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Бэкап ПК)](#aomei-backupper-резервная-копия-системы-пк) |
+| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Редактор кода Python)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios-устройств) |
+| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Резервная копия ПК)](#aomei-backupper-резервная-копия-системы-пк) |
 | | | [Устройства Apple (Синхронизация)](#устройства-apple-обновление-и-восстановление-ios-устройств) |
 
 
