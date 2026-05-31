@@ -223,7 +223,7 @@
 
 
 ## LocalSend (Обмен файлами по сети):
-![](logo_img/localsend-img.webp)
+![](logo_img/localsend-img.jpg)
 
 **Скачать приложение:**
   - [Официальный сайт](https://localsend.org/)
