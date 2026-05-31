@@ -25,7 +25,7 @@
 ![](logo_img/mozilla-firefox-img.jpg)
 
 Скачать приложение:
-  - [Официальный сайт Mozilla](https://www.mozilla.org/ru/firefox/new/)
+  - [Официальный сайт](https://www.mozilla.org/ru/firefox/new/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9NZVDKPMR9RD?hl=ru&gl=RU&ocid=pdpshare)
   - [Apple Store](https://apps.apple.com/us/app/firefox-private-web-browser/id989804926)
 
@@ -42,8 +42,8 @@
 ![](logo_img/Google-Chrome-img.webp)
 
 Скачать приложение:
-  - [Официальный сайт Google](https://www.google.com/chrome/) (Обычная версия)
-  - [Официальный сайт Google](https://www.google.com/chrome/what-you-make-of-it/) (Web версия)
+  - [Официальный сайт](https://www.google.com/chrome/) (Обычная версия)
+  - [Официальный сайт](https://www.google.com/chrome/what-you-make-of-it/) (Web версия)
   - [Apple Store](https://apps.apple.com/ru/app/chrome-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%BE%D1%82-google/id535886823)
 
 Настройка:
@@ -58,7 +58,7 @@
 ![](logo_img/bitwarden-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Bitwarden](https://bitwarden.com/download/)
+  - [Официальный сайт](https://bitwarden.com/download/)
   - [Официальный сайт Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?browser=firefox) (Расширение в FireFox)
   - [Официальный сайт Google](https://chromewebstore.google.com/detail/bitwarden-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5/nngceckbapebfimnlniiiahkandclblb?hl=ru&utm_source=ext_sidebar) (Расширение в Google)
   - [Microsoft Store](https://apps.microsoft.com/detail/9PJSDV0VPK04?hl=ru&gl=RU&ocid=pdpshare)
@@ -71,7 +71,7 @@
 ![](logo_img/windscribe-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Winscribe](https://windscribe.com/download/)
+  - [Официальный сайт](https://windscribe.com/download/)
   - [Apple Store](https://apps.apple.com/us/app/windscribe-vpn/id1129435228)
 
 Настройка:
@@ -84,7 +84,7 @@
 ![](logo_img/telegram-img.jpeg)
 
 Скачать приложение:
-  - [Официальный сайт Telegram](https://desktop.telegram.org/)
+  - [Официальный сайт](https://desktop.telegram.org/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9NZTWSQNTD0S?hl=neutral&gl=RU&ocid=pdpshare)
   - [Apple Store](https://apps.apple.com/us/app/telegram-messenger/id686449807)
 
@@ -98,7 +98,7 @@
 ![](logo_img/diskord-img.webp)
 
 Скачать приложение:
-  - [Официальный сайт Discord](https://discord.com/)
+  - [Официальный сайт](https://discord.com/)
   - [Microsoft Store](https://apps.microsoft.com/detail/XPDC2RH70K22MN?hl=ru&gl=RU&ocid=pdpshare)
   - [Apple Store](https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746)
 
@@ -113,7 +113,7 @@
 ![](logo_img/steam-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Steam](https://store.steampowered.com/about/)
+  - [Официальный сайт](https://store.steampowered.com/about/)
   - [Apple Store](https://apps.apple.com/us/app/steam-mobile/id495369748)
 
 Настройка:
@@ -128,7 +128,7 @@
 ![](logo_img/Epic-Games-Store-img.jpg)
 
 Скачать приложение:
-  - [Официальный сайт Epic Games](https://store.epicgames.com/ru/download)
+  - [Официальный сайт](https://store.epicgames.com/ru/download)
   - [Microsoft Store](https://apps.microsoft.com/detail/XP99VR1BPSBQJ2?hl=ru&gl=RU&ocid=pdpshare)
 
 Настройка:
@@ -142,7 +142,7 @@
 ![](logo_img/obsidian-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Obsidian](https://obsidian.md/download)
+  - [Официальный сайт](https://obsidian.md/download)
   - [Apple Store](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442)
 
 Настройка:
@@ -156,7 +156,7 @@
 ![](logo_img/everything-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Everything](https://www.voidtools.com/ru-ru/downloads/)
+  - [Официальный сайт](https://www.voidtools.com/ru-ru/downloads/)
 
 Программа для быстрого поиска файлов и папок на компьютере, обеспечивающая мгновенные результаты благодаря индексации содержимого дисков. Everything позволяет пользователям легко находить нужные файлы по имени и предоставляет возможность фильтрации и сортировки результатов. Интерфейс программы прост и интуитивно понятен, что делает её удобной в использовании. Приложение доступно на платформах Windows и macOS.
 
@@ -165,16 +165,16 @@
 ![](logo_img/revo-installer-img.png)
 
 Скачать приложение:
-  - [Официальный сайт Revo Uninstaller](https://www.revouninstaller.com/ru/revo-uninstaller-free-download/)
+  - [Официальный сайт](https://www.revouninstaller.com/ru/revo-uninstaller-free-download/)
 
 Программа для удаления приложений и очистки системы от остатков файлов и записей в реестре. Revo Uninstaller предлагает несколько режимов удаления, включая стандартный и продвинутый, что позволяет пользователям эффективно управлять установленными программами. Она также включает инструменты для управления автозагрузкой и поиска программ. Приложение доступно на платформах Windows.
 
 
-## Iobit Driver Booster (Обновление драйверов):
+## Driver Booster (Обновление драйверов):
 ![](logo_img/Driver-Booster-img.jpg)
 
 Скачать приложение:
-  - [Официальный сайт IObit Driver Booster](https://ru.iobit.com/driver-booster.php)
+  - [Официальный сайт](https://ru.iobit.com/driver-booster.php)
   - [Microsoft Store](https://apps.microsoft.com/detail/XPFM0B62TJ71KR?hl=ru&gl=RU&ocid=pdpshare)
 
 Программа для автоматического обновления драйверов на компьютере, обеспечивающая стабильную работу оборудования и улучшение производительности системы. IObit Driver Booster сканирует систему на наличие устаревших драйверов и предлагает их обновление одним кликом. Она также включает функции резервного копирования и восстановления драйверов. Приложение доступно на платформах Windows.
@@ -184,9 +184,9 @@
 ![](logo_img/shareX-img.jpg)
 
 **Скачать приложение:**
-  - [Официальный сайт ShareX](https://getsharex.com/)
+  - [Официальный сайт](https://getsharex.com/)
   - [Microsoft Store](https://apps.microsoft.com/detail/9nblggh4z1sp?hl=ru-RU&gl=RU)
-  - [GitHub Releases](https://github.com/ShareX/ShareX/releases)
+  - [GitHub](https://github.com/ShareX/ShareX)
   - [Steam](https://store.steampowered.com/app/400040/ShareX/)
 
 Мощная программа с открытым исходным кодом для создания скриншотов, записи экрана и загрузки файлов. ShareX поддерживает множество сервисов для быстрой публикации изображений, текста и видео. Пользователи могут автоматизировать рабочие процессы, настраивать горячие клавиши и использовать редактор изображений. Доступна только для Windows.
@@ -196,7 +196,7 @@
 ![](logo_img/VLC-media-player-img.png)
 
 **Скачать приложение:**
-  - [Официальный сайт VLC](https://www.videolan.org/vlc/)
+  - [Официальный сайт](https://www.videolan.org/vlc/)
   - [Microsoft Store](https://apps.microsoft.com/detail/xpdm1zw6815mqm?hl=ru-RU&gl=AR)
   - [Apple Store](https://apps.apple.com/app/vlc-media-player/id650377962)
 
@@ -207,7 +207,7 @@
 ![](logo_img/obs-studio-img.jpg)
 
 **Скачать приложение:**
-  - [Официальный сайт OBS Studio](https://obsproject.com/ru)
+  - [Официальный сайт](https://obsproject.com/ru)
   - [Microsoft Store](https://apps.microsoft.com/detail/xpffh613w8v6lv?hl=ru-RU&gl=RU)
 
 Профессиональное программное обеспечение с открытым исходным кодом для захвата видео, записи экрана и потокового вещания в реальном времени. OBS Studio позволяет создавать сцены с множеством источников (окна, игры, веб-камеры), настраивать переходы, применять фильтры и использовать горячие клавиши. Поддерживает все популярные платформы для стриминга. Доступен на Windows, macOS и Linux.
@@ -217,7 +217,7 @@
 ![](logo_img/bleachbit-img.png)
 
 **Скачать приложение:**
-  - [Официальный сайт BleachBit](https://www.bleachbit.org/)
+  - [Официальный сайт](https://www.bleachbit.org/)
 
 Бесплатная программа с открытым исходным кодом для очистки дискового пространства и защиты конфиденциальности. BleachBit удаляет временные файлы, кэш браузеров, cookies, логи и другие ненужные данные. Также включает функцию затирания свободного места для безвозвратного удаления файлов. Поддерживает Windows и Linux.
 
@@ -226,7 +226,7 @@
 ![](logo_img/localsend-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт LocalSend](https://localsend.org/)
+  - [Официальный сайт](https://localsend.org/)
   - [Apple Store](https://apps.apple.com/app/localsend/id1661733229)
 
 Бесплатное приложение с открытым исходным кодом для мгновенной передачи файлов между устройствами в локальной сети. LocalSend не требует интернета, регистрации или облачных сервисов — всё работает по технологии peer-to-peer. Поддерживает отправку фото, видео, документов и целых папок. Доступен на Windows, macOS, Linux, Android и iOS.
@@ -236,8 +236,8 @@
 ![](logo_img/caesium-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт Caesium](https://saerasoft.com/caesium)
-  - [GitHub Releases](https://github.com/Lymphatus/caesium-image-compressor/releases)
+  - [Официальный сайт](https://saerasoft.com/caesium)
+  - [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
 
 Бесплатный инструмент с открытым исходным кодом для сжатия PNG, JPG и WebP изображений без заметной потери качества. Caesium поддерживает пакетную обработку, предпросмотр результата и настройку уровня сжатия. Позволяет уменьшить размер изображений до 80%, сохраняя оригинальное разрешение. Доступен на Windows, macOS и Linux.
 
@@ -246,7 +246,7 @@
 ![](logo_img/compressO-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт Compresso](https://compresso.codeforreal.com/)
+  - [Официальный сайт](https://compresso.codeforreal.com/)
 
 Мощный бесплатный компрессор видео, который работает **локально в браузере** — ничего не загружается на сервер, всё сжатие происходит на вашем устройстве. Позволяет сжимать ролики с минимальной потерей качества, например, с 500 МБ до 50 МБ. Поддерживает пакетную загрузку нескольких видео одновременно — можно запустить конвертацию и заниматься своими делами. Идеально подходит, когда нужно быстро отправить тяжёлый файл через Telegram, почту или мессенджеры. Доступен через веб-интерфейс на Windows, macOS и Linux.
 
@@ -255,7 +255,7 @@
 ![](logo_img/wiztree-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт WizTree](https://wiztreefree.com/)
+  - [Официальный сайт](https://wiztreefree.com/)
 
 Мгновенный анализатор дискового пространства, который считывает данные напрямую из MFT (Master File Table), что делает его самым быстрым среди аналогов. WizTree отображает занятое место в виде интерактивной древовидной карты (treemap), позволяя визуально определить самые большие папки и файлы. Поддерживает NTFS, FAT, exFAT и сетевые диски. Доступен только для Windows.
 
@@ -264,7 +264,7 @@
 ![](logo_img/qbittorrent-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт qBittorrent](https://www.qbittorrent.org/)
+  - [Официальный сайт](https://www.qbittorrent.org/)
 
 Бесплатный торрент-клиент с открытым исходным кодом, не содержащий рекламы и скрытых трекеров. qBittorrent поддерживает последовательную загрузку, шифрование, ограничение скорости, встроенный поиск по торрент-трекерам, RSS-ленты и удалённое управление через веб-интерфейс. Работает на Windows, macOS, Linux и FreeBSD.
 
@@ -273,11 +273,7 @@
 ![](logo_img/jopdf-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт Jopdf](https://jopdf.com/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/example)
-
-**Настройка:**
-  - ["Jopdf - обзор функций и возможностей"](https://www.youtube.com/watch?v=example) (Название канала)
+  - [Официальный сайт](https://jopdf.com/)
 
 Программа для создания, конвертации и редактирования PDF-файлов. Поддерживает объединение, разделение, сжатие и защиту документов паролем. Jopdf также позволяет конвертировать изображения и офисные документы в формат PDF. Доступна для Windows.
 
@@ -286,13 +282,7 @@
 ![](logo_img/7zip-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт 7-Zip](https://www.7-zip.org/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4X1TQ)
-  - [GitHub](https://github.com/ip7z/7zip)
-
-**Настройка:**
-  - ["7-Zip - всё, что нужно знать"](https://www.youtube.com/watch?v=example) (Название канала)
-  - ["Как настроить 7-Zip и использовать шифрование"](https://www.youtube.com/watch?v=example) (Название канала)
+  - [Официальный сайт](https://www.7-zip.org/)
 
 Мощный архиватор с открытым исходным кодом и высокой степенью сжатия в формате 7z (алгоритм LZMA2). 7-Zip поддерживает множество форматов (ZIP, RAR, TAR, GZIP, WIM и другие) и обладает собственным менеджером файлов с двухпанельным интерфейсом. Доступен для Windows, а также существует версия p7zip для Linux.
 
@@ -301,13 +291,12 @@
 ![](logo_img/windynamicdesctop-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт WinDynamicDesktop](https://www.windynamicdesktop.com/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH5X1TQ)
-  - [GitHub Releases](https://github.com/t1m0thyj/WinDynamicDesktop/releases)
+  - [Официальный сайт](https://windd.info/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9nm8n7dq3z5f?hl=ru-RU&gl=RU)
+  - [GitHub](https://github.com/t1m0thyj/WinDynamicDesktop)
 
 **Настройка:**
-  - ["Как настроить динамические обои на Windows"](https://www.youtube.com/watch?v=example) (Название канала)
-  - ["WinDynamicDesktop - обои как на macOS"](https://www.youtube.com/watch?v=example) (Название канала)
+  - ["Как настроить динамические обои на Windows"](https://github.com/Un1korm/Custom-day-night-double-wallpaper-WinDynamicDesktop) (Un1korm)
 
 Программа, которая добавляет на Windows динамические обои, меняющиеся в зависимости от времени суток или географического положения (аналог функции macOS). WinDynamicDesktop поддерживает загрузку готовых наборов обоев, создание собственных расписаний и автоматическое обновление фона рабочего стола. Доступна для Windows 10 и 11.
 
@@ -316,12 +305,7 @@
 ![](logo_img/alldup-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт AllDup](https://www.alldup.info/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/example)
-
-**Настройка:**
-  - ["AllDup - как найти и удалить дубликаты файлов"](https://www.youtube.com/watch?v=example) (Название канала)
-  - ["Полный обзор AllDup для очистки диска"](https://www.youtube.com/watch?v=example) (Название канала)
+  - [Официальный сайт](https://alldup.info/en/alldup/download.php)
 
 Мощный бесплатный инструмент для поиска и удаления дубликатов файлов (изображения, музыка, видео, документы). AllDup сравнивает файлы по имени, размеру, содержимому, дате изменения, хешу (MD5, SHA-1) и другим параметрам. Поддерживает поиск на внутренних и внешних дисках, в сетевых папках и на NAS. Доступен только для Windows.
 
@@ -330,8 +314,8 @@
 ![](logo_img/wintoys-img.webp)
 
 **Скачать приложение:**
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH5X1TQ)
-  - [GitHub](https://github.com/WinToys/WinToys) *(если есть)*
+  - [Официальный сайт](https://bogdan-patraucean.github.io/about/wintoys/)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=ru-RU&gl=RU)
 
 **Настройка:**
   - ["WinToys - всё для тонкой настройки Windows 11"](https://www.youtube.com/watch?v=example) (Название канала)
@@ -343,12 +327,7 @@
 ![](logo_img/win10tweaker-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт Win10Tweaker](https://winaero.com/win10tweaker/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/example)
-
-**Настройка:**
-  - ["Win10Tweaker - настройка Windows за 5 минут"](https://www.youtube.com/watch?v=example) (Название канала)
-  - ["Секретные настройки Windows через Win10Tweaker"](https://www.youtube.com/watch?v=example) (Название канала)
+  - [Официальный сайт](https://win10tweaker.ru/)
 
 Портативная утилита для тонкой настройки Windows 10 и 11, позволяющая отключить телеметрию, рекламу, ненужные службы, настроить контекстное меню, проводник и другие скрытые параметры системы. Win10Tweaker не требует установки и включает функцию создания точки восстановления перед изменениями. Доступен для Windows.
 
@@ -357,9 +336,7 @@
 ![](logo_img/icloud-img.webp)
 
 **Скачать приложение:**
-  - [Официальный сайт iCloud](https://www.apple.com/ru/icloud/)
-  - [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH5X1TQ)
-  - [Apple Store](https://apps.apple.com/app/icloud/id1452119630)
+  - [Microsoft Store](https://apps.microsoft.com/detail/9pktq5699m62?hl=ru-RU&gl=RU)
 
 Облачный сервис от Apple для хранения фотографий, видео, документов, заметок, контактов и резервных копий устройств. Приложение iCloud для Windows позволяет синхронизировать данные между iPhone/iPad/Mac и компьютером с Windows, включая общий доступ к фото, паролям, закладкам и файлам через проводник. Доступен на Windows, macOS, iOS, Android (веб-версия).
 
@@ -368,11 +345,6 @@
 ![](logo_img/minersearch-img.webp)
 
 **Скачать приложение:**
-  - [GitHub — BlendLog/MinerSearch](https://github.com/BlendLog/MinerSearch/releases)
-  - [Microsoft Store](https://apps.microsoft.com/detail/example) *(отсутствует)*
-
-**Настройка и использование:**
-  - ["Miner Search — когда ваш ПК майнит не для вас"](https://devtrends.ru/c-sharp/blendlog-minersearch) (DevTrends)
-  - ["Как найти и удалить скрытый майнер на ПК"](https://www.youtube.com/watch?v=example) (Название канала)
+  - [GitHub](https://github.com/BlendLog/MinerSearch)
 
 Специализированная утилита для поиска и полного удаления скрытых криптомайнеров в системе Windows. MinerSearch не заменяет антивирус, а является узконаправленным инструментом для борьбы с вредоносным ПО, которое незаметно использует ресурсы процессора или видеокарты для добычи криптовалюты. Программа завершает вредоносные процессы, удаляет файлы, очищает автозапуск и планировщик задач, а также обнаруживает rootkit R77. Обнаруженные угрозы помещаются в карантин с возможностью восстановления. Требует прав администратора и наличия .NET Framework 4.7.2. Доступна только для Windows.
