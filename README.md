@@ -26,9 +26,11 @@
 | | | [Obsidian (Заметки)](#obsidian-программа-для-заметок) |
 | **Развлечения** | **Конфиденциальность** | **Обход блокировок** |
 | [Steam (Магазин игр)](#steam-магазин-игр) | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | [Windscribe (VPN-сервис)](#winscribe-vpn-сервис) |
-| [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | |
-| **Кастомизация** | | |
-| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | | |
+| [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок) |
+| **Кастомизация** | **Программирование** | **Резервное копирование** |
+| [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [PyCharm (Python IDE)](#pycharm-редактор-кода-python) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios-устройств) |
+| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [AOMEI Backupper (Бэкап ПК)](#aomei-backupper-резервная-копия-системы-пк) |
+| | | [Устройства Apple (Синхронизация)](#устройства-apple-обновление-и-восстановление-ios-устройств) |
 
 
 ## Mozilla FireFox (Браузер):
