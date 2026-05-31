@@ -365,7 +365,7 @@
 
 
 ## PyCharm (Редактор кода Python):
-![](logo_img/pycharm-img.png)
+![](logo_img/pycharm-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://www.jetbrains.com/pycharm/download/)
@@ -374,7 +374,7 @@
 
 
 ## Visual Studio Code (Редактор кода):
-![](logo_img/vscode-img.png)
+![](logo_img/visual-studio-code-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://code.visualstudio.com/)
@@ -384,7 +384,7 @@
 
 
 ## iMazing (Резервная копия iOS-устройств):
-![](logo_img/imazing-img.png)
+![](logo_img/imazing-img.webp)
 
 Скачать приложение:
   - [Официальный сайт](https://imazing.com/ru/download)
@@ -403,7 +403,7 @@
 
 
 ## Устройства Apple (Обновление и восстановление iOS-устройств):
-![](logo_img/icloud-img.png)
+![](logo_img/apps-apple-img.jpg)
 
 Скачать приложение:
   - [Microsoft Store](https://apps.microsoft.com/detail/9np83lwlpz9k?hl=ru-RU&gl=RU)
@@ -412,7 +412,7 @@
 
 
 ## Zapret Discord Youtube (Обход блокировок):
-![](logo_img/zapret-img.png)
+![](logo_img/zapret-img.jpg)
 
 Скачать приложение:
   - [GitHub](https://github.com/Flowseal/zapret-discord-youtube)
