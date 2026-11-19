@@ -39,12 +39,12 @@
 | [AlterSend (Обмен файлами)](#altersend-обмен-файлами) | [Steam (Магазин игр)](#steam-магазин-игр) | [Everything (Поиск файлов)](#everything-поисковик-файлов) |
 | [Obsidian (Заметки)](#obsidian-программа-для-заметок) | [Epic Games (Магазин игр)](#epic-games-магазин-игр) | [PC Manager (Оптимизатор)](#pc-manager-оптимизация) |
 | | [qBittorrent (Торрент)](#qbittorrent-торрент-клиент) | [Проверка работоспособности ПК](#проверка-работоспособности-пк) |
-| **Безопасность и конфиденциальность** | | [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) |
+| **Конфиденциальность** | | [MinerSearch (Удаление майнеров)](#minersearch-поиск-и-удаление-майнеров) |
 | [Bitwarden (Менеджер паролей)](#bitwarden-менеджер-паролей) | **Программирование** | [WhoCrashed (Анализ крашей)](#whocrashed-анализ-крашей) |
 | [iCloud (Облачное хранилище)](#icloud-облачное-хранилище) | [PyCharm (Python IDE)](#pycharm-редактор-кода-python) | [Driver Booster (Обновление драйверов)](#driver-booster-обновление-драйверов) |
-| [Windscribe (VPN-сервис)](#windscribe-vpn-сервис) | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [WizTree (Анализ диска)](#wiztree-анализ-дискового-пространства) |
-| | | |
-| **Обход блокировок** | **Кастомизация** | **Резервное копирование** |
+| | [Visual Studio Code (Редактор кода)](#visual-studio-code-редактор-кода) | [WizTree (Анализ диска)](#wiztree-анализ-дискового-пространства) |
+| **Обход блокировок** | | |
+| [Windscribe (VPN-сервис)](#windscribe-vpn-сервис) | **Кастомизация** | **Резервное копирование** |
 | [Zapret (Обход DPI)](#zapret-discord-youtube-обход-блокировок-dsyt) | [WinDynamicDesktop (Динамические обои)](#windynamicdesktop-динамические-обои) | [iMazing (Резервная копия iOS)](#imazing-резервная-копия-ios) |
 | [TG WS Proxy (Обход TG)](#tg-ws-proxy-обход-блокировки-tg) | | [AOMEI Backupper (Резервная копия ПК)](#aomei-backupper-резервная-копия-пк) |
 | | | [Устройства Apple (Сброс и обновление)](#устройства-apple-сброс-и-обновление) |
