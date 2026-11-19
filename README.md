@@ -125,7 +125,7 @@
 
 
 ## AlterSend (Обмен файлами):
-![](logo_img/altersend-img.png)
+![](logo_img/altersend-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://altersend.com/)
@@ -248,7 +248,7 @@
 
 
 ## FluentCleaner (Очистка системы):
-![](logo_img/fluentcleaner-img.png)
+![](logo_img/fluentcleaner-img.jpg)
 
 Скачать приложение:
   - [GitHub](https://github.com/builtbybel/FluentCleaner)
@@ -358,7 +358,7 @@
 
 
 ## OpenScreen (Запись экрана):
-![](logo_img/openscreen-img.png)
+![](logo_img/openscreen-img.webp)
 
 Скачать приложение:
   - [Официальный сайт](https://getopenscreen.com/)
@@ -405,7 +405,7 @@
 
 
 ## PC Manager (Оптимизатор):
-![](logo_img/pc-manager-img.png)
+![](logo_img/pc-manager-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://pcmanager.microsoft.com/)
@@ -414,7 +414,7 @@
 
 
 ## Проверка работоспособности ПК (Диагностика):
-![](logo_img/pc-health-img.png)
+![](logo_img/pc-health-img.jpg)
 
 Встроенная утилита Windows, не требующая установки. Доступна через Панель управления → «Безопасность и обслуживание» → «Проверка работоспособности ПК» (или через поиск в меню Пуск). Отслеживает состояние системы, автоматически выявляет проблемы с дисками, памятью, драйверами, обновлениями и безопасностью, а также предлагает решения по устранению неполадок. Показывает историю сбоев и текущий статус ключевых компонентов системы. Доступна на Windows 7, 8, 10 и 11.
 
@@ -429,7 +429,7 @@
 
 
 ## WhoCrashed (Анализ крашей):
-![](logo_img/whocrashed-img.png)
+![](logo_img/whocrashed-img.jpg)
 
 Скачать приложение:
   - [Официальный сайт](https://www.resplendence.com/whocrashed)
